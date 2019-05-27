@@ -4,4 +4,5 @@ h1 {
 
 img {
   height : 200px;
+  transform:rotate(180deg);
 }
